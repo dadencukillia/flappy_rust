@@ -9,7 +9,7 @@ The idea for the graphics and gameplay was taken from YouTube when I was looking
 ## Cargo commands
 `cargo run` to play in the game,<br>
 `cargo build` to build the game,<br>
-`cargo build -release` to build the game in release mode;
+`cargo build --release` to build the game in release mode;
 
 ## Gameplay
 The only goal is to jump so as not to hit the pillars.
